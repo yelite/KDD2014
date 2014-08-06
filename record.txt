@@ -1,0 +1,14 @@
+fully_funded
+0.665461811779
+one_non_teacher_referred_donor_giving_100_plus
+0.55994553658
+great_chat
+0.565926584577
+at_least_1_green_donation
+0.601182977576
+three_or_more_non_teacher_referred_donors
+0.569419753065
+at_least_1_teacher_referred_donor
+0.563797932526
+donation_from_thoughtful_donor
+0.638929689759
